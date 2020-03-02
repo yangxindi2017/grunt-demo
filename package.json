@@ -19,6 +19,9 @@
   "homepage": "https://github.com/yangxindi2017/grunt-demo#readme",
   "devDependencies": {
     "grunt": "^1.0.4",
-    "grunt-contrib-csslint": "^2.0.0"
+    "grunt-eslint": "^22.0.0"
+  },
+  "dependencies": {
+    "mocha": "^7.1.0"
   }
 }
